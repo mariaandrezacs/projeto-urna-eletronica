@@ -111,6 +111,9 @@ function branco() {
 function corrige() {
     comecarEtapa();
 }
+
+
+
 function confirma() {
     let etapa = etapas[etapaAtual];
 
@@ -143,5 +146,6 @@ function confirma() {
         }
     }
 }
+
 
 comecarEtapa();
