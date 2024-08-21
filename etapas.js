@@ -1,49 +1,49 @@
 let etapas = [
     {
-        titulo: "VEREADOR",
+        titulo: "VEREADOR (A)",
         numeros: 5,
         candidatos: [
             {
                 numero: '38111',
-                nome: "fulano de tal",
+                nome: "José Andrade",
                 partido: "ABC",
                 fotos: [
-                    {url: '381111.jpg', legenda: 'Vereador'}
+                    {url: '38111.jpg', legenda: 'Vereador (a)'}
                 ]
             },
             {
                 numero: '77222',
-                nome: "beltrano de tal",
+                nome: "Josefa Silva",
                 partido: "DEF",
                 fotos: [
-                    {url: '77222.jpg', legenda: 'Vereador'}
+                    {url: '77222.jpg', legenda: 'Vereador (a)'}
                 ]
             },
 
         ]
     },
     {
-        titulo: "PREFEITO",
+        titulo: "PREFEITO (A)",
         numeros: 2,
         candidatos: [
             {
                 numero: '99',
-                nome: "Ciclano",
+                nome: "Calum",
                 partido: "ABC",
                 vice: "Cic",
                 fotos: [
-                    {url: '99.jpg', legenda: 'Prefeiro'},
-                    {url: '77222.jpg', legenda: 'Vice', small: false}
+                    {url: '99.jpg', legenda: 'Prefeito (a)'},
+                    {url: '77222.jpg', legenda: 'Vice-Prefeito (a)', small: false}
                 ]
             },
             {
                 numero: '84',
-                nome: "Zulano",
+                nome: "Corbin",
                 partido: "FDDS",
                 vice: "Zul",
                 fotos: [
-                    {url: '381111.jpg', legenda: 'Prefeiro'},
-                    {url: '99.jpg', legenda: 'Vice-Prefeito', small: false}
+                    {url: '84.jpg', legenda: 'Prefeito (a) '},
+                    {url: '38111.jpg', legenda: 'Vice-Prefeito (a)', small: false}
                 ]
             },
             
